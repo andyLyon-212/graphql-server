@@ -1,0 +1,53 @@
+[
+  {
+    "id": 1,
+    "name": "Pikachu",
+    "power": 21,
+    "abilities": [
+      "Quick Attack",
+      "Volt Tackle",
+      "Electro Ball",
+      "Thunder Wave"
+    ]
+  },
+  {
+    "id": 2,
+    "name": "Charmander",
+    "power": 23,
+    "abilities": [
+      "Fire Fang",
+      "Blaze",
+      "Solar Power:",
+      "Flight"
+    ]
+  },
+  {
+    "id": 3,
+    "name": "Bulbasaur",
+    "power": 18,
+    "abilities": [
+      "Figth",
+      "Green Power"
+    ]
+  },
+  {
+    "id": 4,
+    "name": "Charizard",
+    "power": 25,
+    "abilities": [
+      "Fire Fang",
+      "Blaze",
+      "Solar Power:",
+      "Flight"
+    ]
+  },
+  {
+    "id": 5,
+    "name": "Mewtoo",
+    "power": 18,
+    "abilities": [
+      "Future Sight",
+      "Psych Up"
+    ]
+  }
+]
